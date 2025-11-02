@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Kerr;Randy;;;
+FN:Randy Kerr
+TEL;TYPE=cell:+12062405385
+EMAIL;TYPE=internet:randy@randykerr.com
+ADR;TYPE=home:;;5825 88th St SW;Mukilteo;WA;98275;USA
+END:VCARD
